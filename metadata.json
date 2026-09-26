@@ -1,0 +1,6 @@
+{
+  "name": "IoTGuard - CNC Predictive Maintenance & SHAP Explainability",
+  "description": "Full-stack predictive maintenance dashboard for IoT-enabled CNC factory equipment with LSTM failure forecasting, MC Dropout uncertainty, and SHAP feature attribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
